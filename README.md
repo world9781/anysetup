@@ -19,7 +19,7 @@ Main functions：The main function of this software is to manage the basic confi
 #### Installation
 
 1. CentOS Linux / Rocky Linux / AlmaLinux
-_ _ rpm -ivh anysetup-x.x.x-x.x86_64.rpm
+- - rpm -ivh anysetup-x.x.x-x.x86_64.rpm
 
 1. Ubuntu
 dpkg -i anysetup_x.x.x_amd64.deb
