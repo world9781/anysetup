@@ -20,19 +20,25 @@ Main functions：The main function of this software is to manage the basic confi
 
 1. CentOS Linux / Rocky Linux / AlmaLinux
 ```
-_rpm -ivh anysetup-x.x.x-x.x86_64.rpm_
+rpm -ivh anysetup-x.x.x-x.x86_64.rpm
 ```
 
-1. Ubuntu
+2. Ubuntu
+```
 dpkg -i anysetup_x.x.x_amd64.deb
+```
 
 #### Instructions
 
 1. initialize
+```
 anysetup -e user -p password initialize
+```
 
-1. login
+2. login
+```
 anysetup -e user -p password login
+```
 
 #### Website
 
