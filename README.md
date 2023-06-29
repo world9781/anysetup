@@ -32,7 +32,7 @@ dpkg -i anysetup_x.x.x_amd64.deb
 
 1. initialize
 ```
-anysetup -e user -p password initialize
+anysetup -e _user_ -p password initialize
 ```
 
 2. login
