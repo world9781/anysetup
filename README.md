@@ -19,7 +19,10 @@ Main functions：The main function of this software is to manage the basic confi
 #### Supported architectures
 
 - AMD and Intel 64-bit architectures
-
+- The 64-bit ARM architecture
+- IBM Power Systems, Little Endian
+- 64-bit IBM Z architectures
+  
 #### OS requirements
 
 - CentOS Linux 7 / CentOS Linux 7+
