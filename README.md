@@ -16,6 +16,10 @@ Main functions：The main function of this software is to manage the basic confi
 
 ![Anysetup](https://www.anysetup.top/images/section-image-1.png "Anysetup")
 
+#### Supported architectures
+
+- AMD and Intel 64-bit architectures
+
 #### Installation
 
 1. CentOS Linux / Rocky Linux / AlmaLinux
@@ -32,7 +36,7 @@ dpkg -i anysetup_x.x.x_amd64.deb
 
 1. initialize
 ```
-anysetup -e _user_ -p password initialize
+anysetup -e user -p password initialize
 ```
 
 2. login
