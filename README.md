@@ -20,6 +20,13 @@ Main functions：The main function of this software is to manage the basic confi
 
 - AMD and Intel 64-bit architectures
 
+#### OS requirements
+
+- CentOS Linux 7 / CentOS Linux 7+
+- Rocky Linux 8 / Rocky Linux 8+
+- AlmaLinux 8 / AlmaLinux 8+
+- Ubuntu 18 / Ubuntu 18+
+
 #### Installation
 
 1. CentOS Linux / Rocky Linux / AlmaLinux
